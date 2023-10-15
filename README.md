@@ -19,7 +19,7 @@ This is a Codepen (Online Code Editor) Clone built using React JS and and Materi
 
 ### Links
 
-- Solution URL: [ solution URL ](https://github.com/Psargar616/Frontend-Mentor---Room-homepage-solution)
+- Solution URL: [ solution URL ](https://github.com/Psargar616/codepen-clone)
 - Live Site URL: [ live site URL ](https://codepen-online-code-editor-clone.netlify.app/)
 
 ### Built with
