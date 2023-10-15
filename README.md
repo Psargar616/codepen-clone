@@ -15,8 +15,8 @@ This is a Codepen (Online Code Editor) Clone built using React JS and and Materi
 
 ### Screenshot
 ![ss1](ScreenShots/Screenshot1.png)
-![ss2](ScreenShots/Screenshot2.png)
 
+![ss2](<ScreenShots/Screenshot2.png>)
 ### Links
 
 - Solution URL: [ solution URL ](https://github.com/Psargar616/codepen-clone)
